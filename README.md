@@ -46,7 +46,7 @@
 <div align="left">
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" height="40" alt="angular logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original-wordmark.svg" height="40" alt="aws logo" />
+  
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="40" alt="bash logo" />
   <img width="12" />
@@ -64,7 +64,6 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" height="40" alt="laravel logo" />
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" height="40" alt="mariadb logo" />
   <img width="12" />
