@@ -27,6 +27,19 @@
 
 ###
 
+<h3 align="left">🌱 Internship </h3>
+
+###
+
+<p align="left">
+
+I'm seeking an internship opportunity between November 3, 2025, and April 5, 2026. If you're creating exciting products and need a junior developer with a passion for coding and a business mindset — feel free to reach out!
+</p>
+
+###
+
+###
+
 <h3 align="left">👨‍💻 About Me</h3>
 
 ###
